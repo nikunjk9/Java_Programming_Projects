@@ -3,9 +3,11 @@
 
 public class JavaBasics {
     public static void main (String arg[]){
-
-
-        
+        System.out.println("Hello Nikunj"); //ln: line space after each output.
+        System.out.println("Hello Nikunj");
+        System.out.println("Hello Nikunj");
+        //Another way to give line space.
+        System.out.println("Hello Nikunj\n"); // (\n): Line space
     }
 
 }
