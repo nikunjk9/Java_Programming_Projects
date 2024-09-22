@@ -5,7 +5,7 @@ This repository serves as a comprehensive collection of all `Java programming pr
 
 ## Topics Learned:
 
-1. BoilerPlate Java Code
-2. Printing Pattern
-3. Understanding Varibales
-4. Primitive DataTypes
+1. [BoilerPlate Java Code](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/JavaBasics.java)
+2. [Printing Pattern](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/PrintPattern.java)
+3. [Understanding Varibales](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/JavaVariable.java)
+4. [Primitive DataTypes](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/JavaDataType.java)
