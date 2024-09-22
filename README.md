@@ -8,3 +8,4 @@ This repository serves as a comprehensive collection of all `Java programming pr
 1. BoilerPlate Java Code
 2. Printing Pattern
 3. Understanding Varibales
+4. Primitive DataTypes
