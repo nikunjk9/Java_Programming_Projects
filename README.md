@@ -11,3 +11,4 @@ This repository serves as a comprehensive collection of all `Java programming pr
 4. [Primitive DataTypes](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/JavaDataType.java)
 5. [Sum of two number](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/InputInJava.java)
 6. [Input In Java](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/SumOfTwoNumber.java)
+7. [Sum of two number (User Input)](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/Sumoftwonumber2.java)
