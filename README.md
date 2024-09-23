@@ -9,3 +9,5 @@ This repository serves as a comprehensive collection of all `Java programming pr
 2. [Printing Pattern](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/PrintPattern.java)
 3. [Understanding Varibales](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/JavaVariable.java)
 4. [Primitive DataTypes](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/JavaDataType.java)
+5. [Sum of two number](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/InputInJava.java)
+6. [Input In Java](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/SumOfTwoNumber.java)
