@@ -1,6 +1,6 @@
 // Sum of two number
 
-public class SunOfTwoNumber{
+public class SumOfTwoNumber{
     public static void main(String arg[]){
 
         int a = 100;
