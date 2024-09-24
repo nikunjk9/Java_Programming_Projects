@@ -12,3 +12,4 @@ This repository serves as a comprehensive collection of all `Java programming pr
 5. [Sum of two number](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/InputInJava.java)
 6. [Input In Java](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/SumOfTwoNumber.java)
 7. [Sum of two number (User Input)](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/Sumoftwonumber2.java)
+8. [Product of two numbers)](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/ProductOfTwoNumbers.java)
