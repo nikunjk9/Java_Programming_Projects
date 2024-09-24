@@ -13,3 +13,6 @@ This repository serves as a comprehensive collection of all `Java programming pr
 6. [Input In Java](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/SumOfTwoNumber.java)
 7. [Sum of two number (User Input)](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/Sumoftwonumber2.java)
 8. [Product of two numbers)](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/ProductOfTwoNumbers.java)
+9. [Area od Circle)](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/AreaOfCircle.java)
+10. [Parameter of Rectangle)](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/ParameterOfRectangle.java)
+11. [Type Conversion)](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/TypeConversion.java)
