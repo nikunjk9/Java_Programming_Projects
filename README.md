@@ -16,3 +16,4 @@ This repository serves as a comprehensive collection of all `Java programming pr
      3. [Area of Circle](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/AreaOfCircle.java) 
      4. [Parameter of Rectangle](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/ParameterOfRectangle.java)
 06. [Type Conversion](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/TypeConversion.java)
+7. [Type Casting](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/TypeCasting.java)
