@@ -17,3 +17,5 @@ This repository serves as a comprehensive collection of all `Java programming pr
      4. [Parameter of Rectangle](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/ParameterOfRectangle.java)
 06. [Type Conversion](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/TypeConversion.java)
 7. [Type Casting](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/TypeCasting.java)
+8. [Type Promotion](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/TypePromotion.java)
+     1. [Type Promotion_2](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/TypePromotion_2.java)
