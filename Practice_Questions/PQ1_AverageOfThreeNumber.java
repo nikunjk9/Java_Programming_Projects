@@ -1,8 +1,9 @@
+package Practice_Questions;
 // Average of two number by user input
 
 import java.util.*;
 
-public class AverageOfThreeNumber {
+public class PQ1_AverageOfThreeNumber {
     public static void main(String arg[]){
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();                   // User input of number
