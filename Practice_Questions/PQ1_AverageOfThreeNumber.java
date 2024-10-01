@@ -1,5 +1,5 @@
-package Practice_Questions;
-// Average of two number by user input
+
+// Practice question 1: In a program,input 3 numbers:A, B and C.You have to out put the average of these 3 numbers.
 
 import java.util.*;
 
@@ -14,7 +14,7 @@ public class PQ1_AverageOfThreeNumber {
 
 
         // Avg of three number
-        int avg = sum/2;
+        int avg = sum/3;
         System.out.println(avg);
         sc.close();
     }
