@@ -12,7 +12,7 @@ public class PQ4_Datatype {
         double d = 99.9954;
 
         double result = (f * b) + (i % c) - (d * s);
-        System.out.print(result);
+        System.out.print("Result of this question :" + result);
 
     }
     
