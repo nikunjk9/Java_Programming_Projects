@@ -32,3 +32,6 @@ This repository serves as a comprehensive collection of all `Java programming pr
 
 ## 04. Condition Statements
 01. [If Else Condition Statement)](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/Condition%20Statement/Ifelse.java)
+     1. [Largest of two number](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/Condition%20Statement/LargestOfTwoNumbers.java)<br>
+     2. [Check if number is Odd or Even](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/Condition%20Statement/Number_is_Odd_or_Even.java)<br>
+02. [Else if Condition statements](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/Condition%20Statement/Elseif.java)<br>
