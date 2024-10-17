@@ -13,7 +13,7 @@ public class Elseif {
         }
 
         // We can write multiple if statements
-        else if (age > 13 && 18 > age){                                     // Check if the age is greater than 13 and less than 18
+        else if (age > 13 && 18 > age){                                     // if the (if statement) is tru then this condition will not be checked || Check if the age is greater than 13 and less than 18
             System.out.println("Teenager");
         }
 
