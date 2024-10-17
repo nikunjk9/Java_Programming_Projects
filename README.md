@@ -35,3 +35,5 @@ This repository serves as a comprehensive collection of all `Java programming pr
      1. [Largest of two number](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/Condition%20Statement/LargestOfTwoNumbers.java)<br>
      2. [Check if number is Odd or Even](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/Condition%20Statement/Number_is_Odd_or_Even.java)<br>
 02. [Else if Condition statements](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/Condition%20Statement/Elseif.java)<br>
+     1. [Income Tax Calculator](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/Condition%20Statement/IncomeTaxCalculator.java)<br>
+     2. [Largest of two number](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/Condition%20Statement/LargestOfThreeNumbers.java)<br>
