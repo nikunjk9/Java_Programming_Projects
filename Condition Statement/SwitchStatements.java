@@ -2,6 +2,7 @@
 /* Switch statement
 1. It is not required to write the numbering of the cases in 1,2,3 but we can write in any order eg. 3,2,1
 2. It is not required that the cases would be only number it can be anything eg. char, a,b,c 
+3. It is not required that there would be only 3 cases there can any more than 3 cases
 */
 
 
