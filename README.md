@@ -37,3 +37,7 @@ This repository serves as a comprehensive collection of all `Java programming pr
 02. [Else if Condition statements](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/Condition%20Statement/Elseif.java)<br>
      1. [Income Tax Calculator](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/Condition%20Statement/IncomeTaxCalculator.java)<br>
      2. [Largest of two number](https://github.com/nikunjk9/Java_Programming_Projects/blob/main/Condition%20Statement/LargestOfThreeNumbers.java)<br>
+03. [Ternary Operator](https://github.com/nikunjk9/Java_Programming/blob/main/Condition%20Statement/TernaryOperator.java)<br>
+     1. [Check is a student will Pass or Fail](https://github.com/nikunjk9/Java_Programming/blob/main/Condition%20Statement/CheckMarks.java)<br>
+04. [Switch Statement](https://github.com/nikunjk9/Java_Programming/blob/main/Condition%20Statement/SwitchStatements.java)<br>
+     1. [Mathematic Calculator](https://github.com/nikunjk9/Java_Programming/blob/main/Condition%20Statement/Calculator.java)<br>
